@@ -663,7 +663,7 @@ img {
 }
 
 .top {
-  background-image: url(../image/top_tablet.jpg);
+  background-image: url(https://github.com/bluekazu37/portfolio_restaurant/blob/main/image/top_tablet.jpg);
   background-size: cover;
   background-position: center;
   height: 674px;
@@ -673,7 +673,7 @@ img {
 
 @media print, screen and (min-width: 768px) {
   .top {
-    background-image: url(../image/restaurant.jpg);
+    background-image: url(https://github.com/bluekazu37/portfolio_restaurant/blob/main/image/restaurant.jpg);
   }
 }
 
